@@ -4,9 +4,9 @@ Honeywell / Ademco with Envisakit Plugin for [HomeBridge](https://github.com/nfa
 
 # Installation
 
-1. Install HoneyAlarmServer (https://github.com/MattTW/HoneyAlarmServer).
+1. Install [HoneyAlarmServer](https://github.com/MattTW/HoneyAlarmServer).
 2. Install homebridge using `npm install -g homebridge`.
-3. Install this plugin using `npm install -g git+https://github.com/johnrosenbaum/homebridge-ademco.git`.
+3. Install this plugin using `npm install -g homebridge-ademco`.
 4. Update your configuration file. See configuration sample below.
 
 # Configuration
